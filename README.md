@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cdoubilet2831
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on front end web development projects
