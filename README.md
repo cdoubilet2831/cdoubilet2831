@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html, css, and javascript
 - 💞️ I’m looking to collaborate on front end web development projects
 - 📫 How to reach me cdoubilet2831@student.egcc.edu
 
